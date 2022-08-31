@@ -1,5 +1,3 @@
-print("Module 3 Assignment - Green Team")
-
 library(shiny)
 library(pheatmap)
 library(ggplot2)

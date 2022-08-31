@@ -1,4 +1,3 @@
-print("Module 3 Assignment - Green Team")
 library(shinydashboard)
 library(shiny)
 library(dplyr)
